@@ -1,0 +1,1 @@
+# Coefficients_12_degree_univariate_proximity_ellipses
